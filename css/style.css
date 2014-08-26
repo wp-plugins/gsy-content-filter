@@ -1,33 +1,24 @@
 body {
-  background-color: inherit;
-}
+  background-color: inherit; }
 
 #gsy-content-filter button {
-  min-width: 80px;
-}
+  min-width: 80px; }
 #gsy-content-filter .form-table tr {
-  display: none;
-}
-#gsy-content-filter .form-table tr th {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  width: 150px;
-}
-#gsy-content-filter .form-table tr td {
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
+  display: none; }
+  #gsy-content-filter .form-table tr th {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 150px; }
+  #gsy-content-filter .form-table tr td {
+    padding-top: 10px;
+    padding-bottom: 10px; }
 #gsy-content-filter .form-table .old-word,
 #gsy-content-filter .form-table .new-word,
 #gsy-content-filter .form-table .filter-type {
-  width: 180px;
-}
+  width: 180px; }
 #gsy-content-filter .form-table .filter-type {
-  padding: 6px;
-}
+  padding: 6px; }
 #gsy-content-filter .form-table .case-sensitive {
-  margin-top: 0;
-}
+  margin-top: 0; }
 #gsy-content-filter .form-table .delete-this-filter {
-  margin-left: 10px;
-}
+  margin-left: 10px; }
