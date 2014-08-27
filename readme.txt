@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Temporarily or permanently filter key words from the title, content, excerpt or tags in posts.
+Filter words from the title, content, excerpt or tags in posts.
 
 == Description ==
 

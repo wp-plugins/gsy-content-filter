@@ -3,7 +3,7 @@
 /*
  * Plugin Name: GSY Content Filter
  * Plugin URI: https://github.com/georgi-yankov/gsy-content-filter
- * Description: Temporarily or permanently filter key words from the title, content, excerpt or tags in posts.
+ * Description: Filter words from the title, content, excerpt or tags in posts.
  * Version: 1.0
  * Author: Georgi Yankov
  * Author URI: http://gsy-design.com
