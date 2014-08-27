@@ -31,3 +31,4 @@
 require_once 'includes/class-gsy-content-filter.php';
 
 $gsy_content_filter = new GSY_Content_Filter();
+load_plugin_textdomain('gsy-content-filter', false, plugin_basename(dirname(__FILE__) . '/localization/'));
