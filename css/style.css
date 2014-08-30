@@ -22,3 +22,6 @@ body {
   margin-top: 0; }
 #gsy-content-filter .form-table .delete-this-filter {
   margin-left: 10px; }
+
+#adminmenuback {
+  z-index: 0; }
