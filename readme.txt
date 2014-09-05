@@ -3,7 +3,7 @@ Contributors: georgisyankov
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FMMGECJQYZZUL
 Tags: temporarily, permanent, filter, words, title, content, excerpt, tags, posts, search, replace, gsy
 Requires at least: 3.0.1
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
